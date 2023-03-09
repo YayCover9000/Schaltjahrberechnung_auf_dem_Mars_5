@@ -21,11 +21,9 @@ Daher ist die Schaltjahrberechnung auf dem Mars wie folgt:
 3. Überprüfen Sie, dass es sich bei einer eingegebenen Jahreszahl um ein Schaltjahr handelt
 4.1. (falls 3. nicht zutrifft)
 - Geben Sie das Ergebnis wie folgt aus:
-  ▪ „Das Marsjahr <Jahreszahl>
-  ▪ hat keinen Schalttag.“
+  ▪ „Das Marsjahr <Jahreszahl> hat keinen Schalttag.“
   4.2 (falls 3. zutrifft)
 - Geben Sie das Ergebnis wie folgt aus:
-  ▪ „Das Marsjahr <Jahreszahl>
-  ▪ hat einen Schalttag.“
+  ▪ „Das Marsjahr <Jahreszahl> hat einen Schalttag.“
   Hinweis: Wir betrachten nur Jahreszahlen zwischen 50000 (einschließlich) und 90000 (einschließlich).
   Ansonsten beenden Sie das Programm mit der Fehlermeldung „Keine korrekte Jahreszahl“.
